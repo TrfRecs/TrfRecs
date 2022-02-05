@@ -2,7 +2,7 @@
 - 👀 Artix/Arch Stuff 
 - 🌱 I’m currently learning VST development   
 - 💞️ I’m looking to collaborate on ... Vst Development 
-- 📫 How to reach me ... Email, here, there anywherer
+- 📫 How to reach me ... Email, here, there anywhere
 
 <!---
 TrfRecs/TrfRecs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
